@@ -25,3 +25,9 @@ There should be ten screws in total:
 - four silver jog/shuttle assembly screws
 
 Lift the PCB and jog/shuttle assembly carefully, as the outer shuttle ring and center jog knob are separate components once released.
+
+# NEC D17228
+
+This remote is based on the NEC D17228 series of 4-bit microcontrollers.
+
+<img width="3000" height="4000" alt="jvc_mbr_remote_lp20465-012_d17228" src="https://github.com/user-attachments/assets/330bbab7-39e7-44e9-809f-d3bf2494837c" />
